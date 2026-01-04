@@ -58,3 +58,7 @@ This project uses **LBPH (Local Binary Pattern Histogram)** for face recognition
 ```bash
 python3.11 -m venv .venv
 source .venv/bin/activate
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+3️⃣ Run Application
+python main.py
